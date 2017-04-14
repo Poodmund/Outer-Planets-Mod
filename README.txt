@@ -1,0 +1,1 @@
+This is the OpenGL version of OPM for Mac and Linux users. I will host this version until CaptRobau takes it over.
