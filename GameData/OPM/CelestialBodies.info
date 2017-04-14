@@ -1,0 +1,202 @@
+# This file provides information for other plugins
+# 
+# Syntax:
+#
+#  Celestial-Body-Name
+#  {
+#     [gas giant = true] # optional, default: false
+#     Plugin-Name
+#     {
+#        key = value
+#     }
+#  }
+#
+# Example:
+#
+#  NewKerbin
+#  {
+#     gas giant = false
+#     FinalFrontier
+#     {
+#       ribbon group  = GenericE02
+#       base prestige = 8100
+#     }
+#  }
+#
+
+Sarnus
+{
+   gas giant = true
+   FinalFrontier
+   {
+     ribbon path  = OPM/Ribbons
+     ribbon group  = Sarnus
+     base prestige = 7400
+   }
+}
+
+Hale
+{
+   gas giant = false
+   FinalFrontier
+   {
+     ribbon path  = OPM/Ribbons
+     ribbon group  = Hale
+     base prestige = 7600
+   }
+}
+
+Ovok
+{
+   gas giant = false
+   FinalFrontier
+   {
+     ribbon path  = OPM/Ribbons
+     ribbon group  = Ovok
+     base prestige = 7800
+   }
+}
+
+Eeloo
+{
+   gas giant = false
+   FinalFrontier
+   {
+     ribbon path  = OPM/Ribbons
+     ribbon group  = Sarnus
+     base prestige = 8000
+   }
+}
+
+Slate
+{
+   gas giant = false
+   FinalFrontier
+   {
+     ribbon path  = OPM/Ribbons
+     ribbon group  = Slate
+     base prestige = 8200
+   }
+}
+
+Tekto
+{
+   gas giant = false
+   FinalFrontier
+   {
+     ribbon path  = OPM/Ribbons
+     ribbon group  = Tekto
+     base prestige = 8400
+   }
+}
+
+Urlum
+{
+   gas giant = true
+   FinalFrontier
+   {
+     ribbon path  = OPM/Ribbons
+     ribbon group  = Urlum
+     base prestige = 9000
+   }
+}
+
+Polta
+{
+   gas giant = false
+   FinalFrontier
+   {
+     ribbon path  = OPM/Ribbons
+     ribbon group  = Polta
+     base prestige = 9400
+   }
+}
+
+Priax
+{
+   gas giant = false
+   FinalFrontier
+   {
+     ribbon path  = OPM/Ribbons
+     ribbon group  = Priax
+     base prestige = 9200
+   }
+}
+
+Wal
+{
+   gas giant = false
+   FinalFrontier
+   {
+     ribbon path  = OPM/Ribbons
+     ribbon group  = Wal
+     base prestige = 9800
+   }
+}
+
+Tal
+{
+   gas giant = false
+   FinalFrontier
+   {
+     ribbon path  = OPM/Ribbons
+     ribbon group  = Tal
+     base prestige = 9600
+   }
+}
+
+
+Neidon
+{
+   gas giant = true
+   FinalFrontier
+   {
+     ribbon path  = OPM/Ribbons
+     ribbon group  = Neidon
+     base prestige = 10000
+   }
+}
+
+Thatmo 
+{
+   gas giant = false
+   FinalFrontier
+   {
+     ribbon path  = OPM/Ribbons
+     ribbon group  = Thatmo
+     base prestige = 10200
+   }
+}
+
+Nissee
+{
+   gas giant = false
+   FinalFrontier
+   {
+     ribbon path  = OPM/Ribbons
+     ribbon group  = Nissee
+     base prestige = 10400
+   }
+}
+
+Plock
+{
+   gas giant = false
+   FinalFrontier
+   {
+     ribbon path  = OPM/Ribbons
+     ribbon group  = Plock
+     base prestige = 11000
+   }
+}
+
+Karen
+{
+   gas giant = false
+   FinalFrontier
+   {
+     ribbon path  = OPM/Ribbons
+     ribbon group  = Karen
+     base prestige = 11200
+   }
+}
