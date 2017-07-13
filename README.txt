@@ -1,4 +1,4 @@
-# OPM 2.2
+# OPM_Galileo v1.1
 _This is a version of OPM maintained by Galileo_
 This version of Outer Planets Mod is for KSP version 1.3
 I will host this version until CaptRobau takes it over.
