@@ -8,7 +8,7 @@ I will host this version until CaptRobau takes it over.
   * **ResearchBodies** is now supported
   * Kopernicus Biome displayName enabled
 * Karbonite resource configs have been updated
-* KerbNet is now functioning correctly
+* KerbNet is not functioning correctly. I beleive this to be a Kopernicus issue
 * Restructured texture paths. Should speed up loading time by a few seconds
 
 This mod retains OPM's original License: Attribution-NonCommercial-ShareAlike 4.0 International
