@@ -1,14 +1,11 @@
-# OPM_Galileo v1.2
+# OPM_Galileo v1.2.1
 _This is a version of OPM maintained by Galileo_
 This version of Outer Planets Mod is for KSP version 1.3
 I will host this version until CaptRobau takes it over.
 
 **Change log**
-* Completed necessary localization 
-  * **ResearchBodies** is now supported
-  * Kopernicus Biome displayName enabled
-* Karbonite resource configs have been updated
-* KerbNet is not functioning correctly. I beleive this to be a Kopernicus issue
-* Restructured texture paths. Should speed up loading time by a few seconds
+* Fixed Neidon and Nissee descriptions
+* Fixed symbols in science defs and descriptions
+* Changes to resource cfgs. KerbNet should work now.
 
 This mod retains OPM's original License: Attribution-NonCommercial-ShareAlike 4.0 International
