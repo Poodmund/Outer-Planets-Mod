@@ -6,12 +6,12 @@ The Outer Planets Mod is a mod that expands the outer edges of the Kerbol system
 
 ### 2 - Features
 
-*Explore 15 new highly detailed planets and moons, all in a stock-a-like artstyle.
-*Discover never before seen worlds, such as a sub-satellite, Trojan moon or a set of binary bodies.
-*Collect science in over 140 biomes, with almost a thousand unique science blurbs.
-*Custom terrain textures and improved ground scatter has made planets and moons never look so good up close.
-*A full set of KSPedia entries for OPM's various bodies helps you to navigate the far reaches of the Kerbol system.
-*Extensive third-party mod integration means you can play OPM with a whole range of other mods.
+* Explore 15 new highly detailed planets and moons, all in a stock-a-like artstyle.
+* Discover never before seen worlds, such as a sub-satellite, Trojan moon or a set of binary bodies.
+* Collect science in over 140 biomes, with almost a thousand unique science blurbs.
+* Custom terrain textures and improved ground scatter has made planets and moons never look so good up close.
+* A full set of KSPedia entries for OPM's various bodies helps you to navigate the far reaches of the Kerbol system.
+* Extensive third-party mod integration means you can play OPM with a whole range of other mods.
 
 ### 3 - Known Issues
 
@@ -22,7 +22,9 @@ The Outer Planets Mod is a mod that expands the outer edges of the Kerbol system
 Extract the GameData folder found in the downloadable .zip directly into your Kerbal Space Program install directory. If located correctly, the OPM and CTTP directories should be found at:
 
 * \Kerbal Space Program\GameData\OPM
+
 &
+
 * \Kerbal Space Program\GameData\CTTP
 
 ### 5 - Dependencies
