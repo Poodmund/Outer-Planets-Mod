@@ -21,9 +21,9 @@ The Outer Planets Mod is a mod that expands the outer edges of the Kerbol system
 
 Extract the GameData folder found in the downloadable .zip directly into your Kerbal Space Program install directory. If located correctly, the OPM and CTTP directories should be found at:
 
-*\Kerbal Space Program\GameData\OPM
+* \Kerbal Space Program\GameData\OPM
 &
-*\Kerbal Space Program\GameData\CTTP
+* \Kerbal Space Program\GameData\CTTP
 
 ### 5 - Dependencies
 
