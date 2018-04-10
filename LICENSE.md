@@ -417,7 +417,7 @@ Section 8 -- Interpretation.
      that apply to the Licensor or You, including from the legal
      processes of any jurisdiction or authority.
 
-=======================================================================
+
 
 Creative Commons is not a party to its public
 licenses. Notwithstanding, Creative Commons may elect to apply one of
@@ -437,3 +437,7 @@ the avoidance of doubt, this paragraph does not form part of the
 public licenses.
 
 Creative Commons may be contacted at creativecommons.org.
+
+=======================================================================
+
+Please note that the Community Terrain Texture Pack mod that is bundled within Outer Planets mod is licensed under its own license being the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. Credit goes to the original creator of this mod, Capt Robau, and the current maintainers and collaborators of said mod (https://github.com/Galileo88/Community-Terrain-Texture-Pack/releases).

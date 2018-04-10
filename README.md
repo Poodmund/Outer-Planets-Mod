@@ -1,5 +1,7 @@
 # Outer Planets Mod v2.2.0
 
+This version of Outer Planets Mod has been built to work for KSP version 1.3.1 - 1.4.2.
+
 ### 1 - About
 
 The Outer Planets Mod is a mod that expands the outer edges of the Kerbol system to create something akin to the real Solar System's. It adds Kerbalized versions of Saturn, Uranus, Neptune and Pluto as well as several of these planets' moons. These faraway planets provide a challenge rarely encountered in Kerbal Space Program; you'll have to figure out new transfer windows, manage your power supply differently, provide your spacecraft with more Delta-V and be ready to travel years or even decades.
