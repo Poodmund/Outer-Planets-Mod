@@ -1,4 +1,4 @@
-# Outer Planets Mod v2.2.0
+# Outer Planets Mod v2.2.1
 
 This version of Outer Planets Mod has been built to work for KSP version 1.3.1 - 1.4.2.
 
@@ -13,6 +13,7 @@ The Outer Planets Mod is a mod that expands the outer edges of the Kerbol system
 * Collect science in over 140 biomes, with almost a thousand unique science blurbs.
 * Custom terrain textures and improved ground scatter has made planets and moons never look so good up close.
 * A full set of KSPedia entries for OPM's various bodies helps you to navigate the far reaches of the Kerbol system.
+* Includes a Level 4 Tracking Station upgrade (requires CustomBarnKit) to boost your communication range out to the furthest reaches of the system without requiring additional modded antennas.
 * Extensive third-party mod integration means you can play OPM with a whole range of other mods.
 
 ### 3 - Known Issues
@@ -46,16 +47,9 @@ The following KSP mods must be installed prior to using Outer Planets Mod (ensur
 
 ### 7 - Changelog
 
-v2.2.0
+v2.2.1
 
-* Upscaled and redefined all biome maps to 4096x2048px.
-* Changed biome map formats to .png and clamped color palettes to only those colors in the configs.
-* Redefined Tekto's liquid coasts (added ocean and land where necessary) in the color map, land/sea mask and adjust biome map to suit.
-* Added Inland Lagoons biome to Tekto to account for inland liquid regions.
-* Fixed Science Definitions file to correctly assign experiments.
-* Moved Eeloo's new description string to the localization file.
-* Removed antenna and DSN multiplier patches and introduced a Level 4 Tracking Station upgrade to give the extended range required for communications.
-* Removed Stock Science Multipliers patch and redid Science Values for all OPM bodies to fall in line with stock body value consistency. Users can now adjust the Science Multiplier in their Difficulty Settings to suit their preference.
+* Fixed errors in Slate and Wal's normal map paths causing them not to use OnDemand loading effectively.
 
 Previous changelogs can be found on the GitHub repository or the original forum thread: https://forum.kerbalspaceprogram.com/index.php?/topic/93999-1
 
