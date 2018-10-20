@@ -9,7 +9,7 @@
 //	3 = Interplanetary	(Stuff you find between planets)
 //
 
-PLANETARY_RESOURCE
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
 {
 	ResourceName = Gemstones
 	ResourceType = 0
@@ -24,7 +24,7 @@ PLANETARY_RESOURCE
 		Dispersal = 0
 	}
 }
-PLANETARY_RESOURCE
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
 {
 	ResourceName = Gemstones
 	ResourceType = 0
@@ -39,7 +39,7 @@ PLANETARY_RESOURCE
 		Dispersal = 0
 	}
 }
-PLANETARY_RESOURCE
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
 {
 	ResourceName = Gemstones
 	ResourceType = 0
@@ -55,7 +55,7 @@ PLANETARY_RESOURCE
 	}
 }
 
-PLANETARY_RESOURCE
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
 {
 	ResourceName = Gemstones
 	ResourceType = 0

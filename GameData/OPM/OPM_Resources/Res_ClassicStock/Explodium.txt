@@ -9,7 +9,7 @@
 //	3 = Interplanetary	(Stuff you find between planets)
 //
 
-PLANETARY_RESOURCE
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
 {
 	ResourceName = Explodium
 	ResourceType = 0

@@ -9,7 +9,7 @@
 //	3 = Interplanetary	(Stuff you find between planets)
 //
 
-PLANETARY_RESOURCE
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
 {
 	ResourceName = Atmosphere
 	ResourceType = 3
@@ -28,7 +28,7 @@ PLANETARY_RESOURCE
 	}
 }
 
-PLANETARY_RESOURCE
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
 {
 	ResourceName = Atmosphere
 	ResourceType = 3
@@ -46,7 +46,7 @@ PLANETARY_RESOURCE
         Variance = 0
 	}
 }
-PLANETARY_RESOURCE
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
 {
 	ResourceName = Atmosphere
 	ResourceType = 3
@@ -64,7 +64,7 @@ PLANETARY_RESOURCE
         Variance = 0
 	}
 }
-PLANETARY_RESOURCE
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
 {
 	ResourceName = Atmosphere
 	ResourceType = 3
@@ -82,7 +82,7 @@ PLANETARY_RESOURCE
         Variance = 0
 	}
 }
-PLANETARY_RESOURCE
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
 {
 	ResourceName = Atmosphere
 	ResourceType = 3
@@ -100,7 +100,7 @@ PLANETARY_RESOURCE
         Variance = 0
 	}
 }
-PLANETARY_RESOURCE
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
 {
 	ResourceName = Atmosphere
 	ResourceType = 3
