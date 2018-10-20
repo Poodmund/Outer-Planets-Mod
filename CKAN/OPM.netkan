@@ -1,0 +1,64 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "OuterPlanetsMod",
+    "$kref": "#/ckan/github/Galileo88/Outer-Planets-Mod",
+    "$vref": "#/ckan/ksp-avc",
+    "name": "Outer Planets Mod",
+    "abstract": "﻿ The Outer Planets Mod is a mod that ex﻿pands the out﻿er edges of t﻿he Kerbol system to create something akin to the real Solar System's﻿.",
+    "author": [ "CaptRobau", "Galileo88", "Poodmund" ],
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/165854-k"
+    },
+    "install": [
+        {
+            "find": "OPM",
+            "install_to": "GameData",
+            "comment": "This is the main install for OPM"
+        },
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "CommunityTerrainTexturePack"
+        }
+    ],
+    "conflicts": [
+        {
+            "name": "RealSolarSystem"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "CustomBarnKit"
+        },
+    ],
+    "suggests": [
+        {
+            "name": "BetterTimeWarpCont"
+        },
+		{
+            "name": "CommunityResourcePack"
+        },
+		{
+            "name": "DistantObject"
+        },
+		{
+            "name": "FinalFrontier"
+        },
+		{
+            "name": "PlanetShine"
+        },
+		{
+            "name": "ResearchBodies"
+        },
+    ],
+	"tags": [
+		"planet-pack"
+    ],
+}

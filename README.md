@@ -1,6 +1,6 @@
-# Outer Planets Mod v2.2.1
+# Outer Planets Mod v2.2.2
 
-This version of Outer Planets Mod has been built to work for KSP version 1.3.1 - 1.4.2.
+This version of Outer Planets Mod has been built to work for KSP version 1.3.1 - 1.5.*.
 
 ### 1 - About
 
@@ -36,20 +36,36 @@ The following KSP mods must be installed prior to using Outer Planets Mod (ensur
 
 * Kopernicus - https://github.com/Kopernicus/Kopernicus/releases
 * Module Manager - https://forum.kerbalspaceprogram.com/index.php?/topic/50533-1
-* Custom Barn Kit - https://forum.kerbalspaceprogram.com/index.php?/topic/109027-1
 * Community Terrain Texture Pack - bundled within OPM
 
 ### 6 - Supported Mods
 
+* Custom Barn Kit - https://forum.kerbalspaceprogram.com/index.php?/topic/109027-1
 * Distant Object Enhancement
 * PlanetShine
 * Research Bodies
 
 ### 7 - Changelog
 
+v2.2.2
+
+* Removed Custom Asteroids integration in favor of using Kopernicus' Asteroids module.
+* Converted all biome maps to Palette 4bpp/8bpp .dds formats to improve loading time and OD functionality.
+
 v2.2.1
 
 * Fixed errors in Slate and Wal's normal map paths causing them not to use OnDemand loading effectively.
+
+v2.2.0
+
+* Upscaled and redefined all biome maps to 4096x2048px.
+* Changed biome map formats to .png and clamped color palettes to only those colors in the configs.
+* Redefined Tekto's liquid coasts (added ocean and land where necessary) in the color map, land/sea mask and adjust biome map to suit.
+* Added Inland Lagoons biome to Tekto to account for inland liquid regions.
+* Fixed Science Definitions file to correctly assign experiments.
+* Moved Eeloo's new description string to the localization file.
+* Removed antenna and DSN multiplier patches and introduced a Level 4 Tracking Station upgrade to give the extended range required for communications.
+* Removed Stock Science Multipliers patch and redid Science Values for all OPM bodies to fall in line with stock body value consistency. Users can now adjust the Science Multiplier in their Difficulty Settings to suit their preference.
 
 Previous changelogs can be found on the GitHub repository or the original forum thread: https://forum.kerbalspaceprogram.com/index.php?/topic/93999-1
 

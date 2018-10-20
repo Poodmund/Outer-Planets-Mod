@@ -3,8 +3,8 @@
     "URL":"http://ksp-avc.cybutek.net/version.php?id=571",
     "DOWNLOAD":"https://github.com/Galileo88/Outer-Planets-Mod/releases",
     "CHANGE_LOG_URL":"https://raw.githubusercontent.com/Galileo88/Outer-Planets-Mod/master/README.md",
-    "VERSION":{"MAJOR":2,"MINOR":2,"PATCH":0,"BUILD":1},
-    "KSP_VERSION":{"MAJOR":1,"MINOR":4,"PATCH":2},
+    "VERSION":{"MAJOR":2,"MINOR":2,"PATCH":2,"BUILD":0},
+    "KSP_VERSION":{"MAJOR":1,"MINOR":5,"PATCH":1},
     "KSP_VERSION_MIN":{"MAJOR":1,"MINOR":3,"PATCH":1},
-    "KSP_VERSION_MAX":{"MAJOR":1,"MINOR":4,"PATCH":3}
+    "KSP_VERSION_MAX":{"MAJOR":1,"MINOR":5,"PATCH":99}
 }
