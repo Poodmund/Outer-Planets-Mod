@@ -239,6 +239,82 @@ PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
 PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
 {
 	ResourceName = Hexagen
+	ResourceType = 2
+	PlanetName = Sarnus
+	
+	Distribution
+	{
+		PresenceChance = 1000
+		MinAbundance = 6
+		MaxAbundance = 8
+		Variance = 0
+		Dispersal = 0
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Hexagen
+	ResourceType = 2
+	PlanetName = Tekto
+	
+	Distribution
+	{
+		PresenceChance = 1000
+		MinAbundance = 3
+		MaxAbundance = 3
+		Variance = 0
+		Dispersal = 0
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Hexagen
+	ResourceType = 2
+	PlanetName = Urlum
+	
+	Distribution
+	{
+		PresenceChance = 1000
+		MinAbundance = 3
+		MaxAbundance = 4
+		Variance = 0
+		Dispersal = 0
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Hexagen
+	ResourceType = 2
+	PlanetName = Neidon
+	
+	Distribution
+	{
+		PresenceChance = 1000
+		MinAbundance = 6
+		MaxAbundance = 8
+		Variance = 0
+		Dispersal = 0
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Hexagen
+	ResourceType = 2
+	PlanetName = Thatmo
+	
+	Distribution
+	{
+		PresenceChance = 1000
+		MinAbundance = 1.5
+		MaxAbundance = 2
+		Variance = 0
+		Dispersal = 0
+	}
+}
+
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Hexagen
 	ResourceType = 3
 	PlanetName = Sarnus
 	

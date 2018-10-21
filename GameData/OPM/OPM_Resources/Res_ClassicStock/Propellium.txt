@@ -12,6 +12,82 @@
 PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
 {
 	ResourceName = Propellium
+	ResourceType = 2
+	PlanetName = Sarnus
+	
+	Distribution
+	{
+		PresenceChance = 1000
+		MinAbundance = 84
+		MaxAbundance = 84
+		Variance = 0
+		Dispersal = 0
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Propellium
+	ResourceType = 2
+	PlanetName = Tekto
+	
+	Distribution
+	{
+		PresenceChance = 1000
+		MinAbundance = 1
+		MaxAbundance = 1
+		Variance = 0
+		Dispersal = 0
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Propellium
+	ResourceType = 2
+	PlanetName = Urlum
+	
+	Distribution
+	{
+		PresenceChance = 1000
+		MinAbundance = 76
+		MaxAbundance = 80
+		Variance = 0
+		Dispersal = 0
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Propellium
+	ResourceType = 2
+	PlanetName = Neidon
+	
+	Distribution
+	{
+		PresenceChance = 1000
+		MinAbundance = 72
+		MaxAbundance = 75
+		Variance = 0
+		Dispersal = 0
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Propellium
+	ResourceType = 2
+	PlanetName = Thatmo
+	
+	Distribution
+	{
+		PresenceChance = 1000
+		MinAbundance = 2
+		MaxAbundance = 2
+		Variance = 0
+		Dispersal = 0
+	}
+}
+
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Propellium
 	ResourceType = 3
 	PlanetName = Sarnus
 	
