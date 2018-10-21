@@ -1,6 +1,6 @@
 //
 //	Outer Planets Mod
-//	Resource: Blutonium
+//	Resource: Hydrokerbon
 //
 //Resource types:  
 //	0 = Crustal			(Stuff you dig up)
@@ -11,7 +11,7 @@
 
 PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
 {
-	ResourceName = Blutonium
+	ResourceName = Hydrokerbon
 	ResourceType = 0
 	PlanetName = Sarnus
 	
@@ -26,7 +26,7 @@ PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
 }
 PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
 {
-	ResourceName = Blutonium
+	ResourceName = Hydrokerbon
 	ResourceType = 0
 	PlanetName = Urlum
 	
@@ -41,7 +41,7 @@ PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
 }
 PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
 {
-	ResourceName = Blutonium
+	ResourceName = Hydrokerbon
 	ResourceType = 0
 	PlanetName = Neidon
 	
@@ -57,192 +57,197 @@ PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
 
 PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
 {
-	ResourceName = Blutonium
+	ResourceName = Hydrokerbon
 	ResourceType = 0
 	PlanetName = Hale
 	
 	Distribution
 	{
-		PresenceChance = 0
-		MinAbundance = 0
-		MaxAbundance = 0
-		Variance = 50
-		Dispersal = 3
+		PresenceChance = 60
+		MinAbundance = 0.1
+		MaxAbundance = 3
+		Variance = 30
+		Dispersal = 10
 	}
 }
-
 PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
 {
-	ResourceName = Blutonium
+	ResourceName = Hydrokerbon
 	ResourceType = 0
 	PlanetName = Ovok
 	
 	Distribution
 	{
-		PresenceChance = 0
-		MinAbundance = 0
-		MaxAbundance = 0
-		Variance = 50
-		Dispersal = 3
+		PresenceChance = 60
+		MinAbundance = 0.1
+		MaxAbundance = 5
+		Variance = 30
+		Dispersal = 10
 	}
 }
-
 PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
 {
-	ResourceName = Blutonium
+	ResourceName = Hydrokerbon
 	ResourceType = 0
 	PlanetName = Slate
 	
 	Distribution
 	{
-		PresenceChance = 70
-		MinAbundance = 0.4
-		MaxAbundance = 4
-		Variance = 50
-		Dispersal = 3
+		PresenceChance = 60
+		MinAbundance = 0.1
+		MaxAbundance = 2
+		Variance = 30
+		Dispersal = 10
 	}
 }
-
 PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
 {
-	ResourceName = Blutonium
+	ResourceName = Hydrokerbon
 	ResourceType = 0
 	PlanetName = Tekto
 	
 	Distribution
 	{
-		PresenceChance = 70
-		MinAbundance = 0.4
-		MaxAbundance = 5
-		Variance = 50
-		Dispersal = 3
+		PresenceChance = 60
+		MinAbundance = 0.1
+		MaxAbundance = 15
+		Variance = 30
+		Dispersal = 10
 	}
 }
-
 PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
 {
-	ResourceName = Blutonium
+	ResourceName = Hydrokerbon
 	ResourceType = 0
 	PlanetName = Polta
 	
 	Distribution
 	{
-		PresenceChance = 70
-		MinAbundance = 0.4
-		MaxAbundance = 3
-		Variance = 50
-		Dispersal = 3
+		PresenceChance = 60
+		MinAbundance = 0.1
+		MaxAbundance = 6
+		Variance = 30
+		Dispersal = 10
 	}
 }
-
 PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
 {
-	ResourceName = Blutonium
+	ResourceName = Hydrokerbon
 	ResourceType = 0
 	PlanetName = Priax
 	
 	Distribution
 	{
-		PresenceChance = 70
-		MinAbundance = 0.4
-		MaxAbundance = 4
-		Variance = 50
-		Dispersal = 3
+		PresenceChance = 60
+		MinAbundance = 0.1
+		MaxAbundance = 6
+		Variance = 30
+		Dispersal = 10
 	}
 }
-
 PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
 {
-	ResourceName = Blutonium
+	ResourceName = Hydrokerbon
 	ResourceType = 0
 	PlanetName = Wal
 	
 	Distribution
 	{
-		PresenceChance = 70
+		PresenceChance = 60
 		MinAbundance = 0.1
-		MaxAbundance = 4
-		Variance = 50
-		Dispersal = 3
+		MaxAbundance = 2
+		Variance = 30
+		Dispersal = 10
 	}
 }
-
 PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
 {
-	ResourceName = Blutonium
+	ResourceName = Hydrokerbon
 	ResourceType = 0
 	PlanetName = Tal
 	
 	Distribution
 	{
-		PresenceChance = 0
-		MinAbundance = 0
-		MaxAbundance = 0
-		Variance = 50
-		Dispersal = 3
+		PresenceChance = 60
+		MinAbundance = 0.1
+		MaxAbundance = 2
+		Variance = 30
+		Dispersal = 10
 	}
 }
-
 PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
 {
-	ResourceName = Blutonium
+	ResourceName = Hydrokerbon
 	ResourceType = 0
 	PlanetName = Thatmo
 	
 	Distribution
 	{
-		PresenceChance = 70
+		PresenceChance = 60
 		MinAbundance = 0.1
-		MaxAbundance = 10
-		Variance = 50
-		Dispersal = 3
+		MaxAbundance = 4
+		Variance = 30
+		Dispersal = 10
 	}
 }
-
 PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
 {
-	ResourceName = Blutonium
+	ResourceName = Hydrokerbon
 	ResourceType = 0
 	PlanetName = Nissee
 	
 	Distribution
 	{
-		PresenceChance = 90
+		PresenceChance = 60
 		MinAbundance = 0.1
-		MaxAbundance = 1
-		Variance = 50
-		Dispersal = 3
+		MaxAbundance = 9
+		Variance = 30
+		Dispersal = 10
 	}
 }
-
 PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
 {
-	ResourceName = Blutonium
+	ResourceName = Hydrokerbon
 	ResourceType = 0
 	PlanetName = Plock
 	
 	Distribution
 	{
-		PresenceChance = 70
-		MinAbundance = 0.4
-		MaxAbundance = 2
-		Variance = 50
-		Dispersal = 3
+		PresenceChance = 60
+		MinAbundance = 0.1
+		MaxAbundance = 3
+		Variance = 30
+		Dispersal = 10
 	}
 }
-
 PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
 {
-	ResourceName = Blutonium
+	ResourceName = Hydrokerbon
 	ResourceType = 0
 	PlanetName = Karen
 	
 	Distribution
 	{
-		PresenceChance = 70
-		MinAbundance = 0.4
-		MaxAbundance = 1
-		Variance = 50
-		Dispersal = 3
+		PresenceChance = 60
+		MinAbundance = 0.1
+		MaxAbundance = 3
+		Variance = 30
+		Dispersal = 10
+	}
+}
+
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Hydrokerbon
+	ResourceType = 1
+	PlanetName = Tekto
+	
+	Distribution
+	{
+		PresenceChance = 1000
+		MinAbundance = 80
+		MaxAbundance = 80
+		Variance = 0
+		Dispersal = 0
 	}
 }

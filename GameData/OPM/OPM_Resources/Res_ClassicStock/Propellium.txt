@@ -12,15 +12,198 @@
 PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
 {
 	ResourceName = Propellium
-	ResourceType = 0
-	PlanetName = 
+	ResourceType = 3
+	PlanetName = Sarnus
 	
 	Distribution
 	{
-		PresenceChance = 0
-		MinAbundance = 0
-		MaxAbundance = 0
+		PresenceChance = 1000
+		MinAbundance = 50
+		MaxAbundance = 60
 		Variance = 0
-		Dispersal = 0
+		MinAltitude = 0.21
+		MaxAltitude = 0.21
+		MinRange = 80
+		MaxRange = 100
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Propellium
+	ResourceType = 3
+	PlanetName = Urlum
+	
+	Distribution
+	{
+		PresenceChance = 1000
+		MinAbundance = 50
+		MaxAbundance = 60
+		Variance = 0
+		MinAltitude = 0.29
+		MaxAltitude = 0.29
+		MinRange = 80
+		MaxRange = 100
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Propellium
+	ResourceType = 3
+	PlanetName = Neidon
+	
+	Distribution
+	{
+		PresenceChance = 1000
+		MinAbundance = 40
+		MaxAbundance = 60
+		Variance = 0
+		MinAltitude = 0.24
+		MaxAltitude = 0.24
+		MinRange = 80
+		MaxRange = 100
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Propellium
+	ResourceType = 3
+	PlanetName = Hale
+	
+	Distribution
+	{
+		PresenceChance = 1000
+		MinAbundance = 1
+		MaxAbundance = 9
+		Variance = 0
+		MinAltitude = 2
+		MaxAltitude = 2
+		MinRange = 10
+		MaxRange = 10
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Propellium
+	ResourceType = 3
+	PlanetName = Ovok
+	
+	Distribution
+	{
+		PresenceChance = 1000
+		MinAbundance = 1
+		MaxAbundance = 9
+		Variance = 0
+		MinAltitude = 2
+		MaxAltitude = 2
+		MinRange = 10
+		MaxRange = 10
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Propellium
+	ResourceType = 3
+	PlanetName = Slate
+	
+	Distribution
+	{
+		PresenceChance = 1000
+		MinAbundance = 1
+		MaxAbundance = 5
+		Variance = 0
+		MinAltitude = 2
+		MaxAltitude = 2
+		MinRange = 10
+		MaxRange = 10
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Propellium
+	ResourceType = 3
+	PlanetName = Tekto
+	
+	Distribution
+	{
+		PresenceChance = 1000
+		MinAbundance = 1
+		MaxAbundance = 2
+		Variance = 0
+		MinAltitude = 2
+		MaxAltitude = 2
+		MinRange = 10
+		MaxRange = 10
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Propellium
+	ResourceType = 3
+	PlanetName = Polta
+	
+	Distribution
+	{
+		PresenceChance = 1000
+		MinAbundance = 1
+		MaxAbundance = 5
+		Variance = 0
+		MinAltitude = 2
+		MaxAltitude = 2
+		MinRange = 10
+		MaxRange = 10
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Propellium
+	ResourceType = 3
+	PlanetName = Priax
+	
+	Distribution
+	{
+		PresenceChance = 1000
+		MinAbundance = 1
+		MaxAbundance = 5
+		Variance = 0
+		MinAltitude = 2
+		MaxAltitude = 2
+		MinRange = 10
+		MaxRange = 10
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Propellium
+	ResourceType = 3
+	PlanetName = Thatmo
+	
+	Distribution
+	{
+		PresenceChance = 1000
+		MinAbundance = 0.2
+		MaxAbundance = 4
+		Variance = 0
+		MinAltitude = 2
+		MaxAltitude = 2
+		MinRange = 10
+		MaxRange = 10
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Propellium
+	ResourceType = 3
+	PlanetName = Nissee
+	
+	Distribution
+	{
+		PresenceChance = 1000
+		MinAbundance = 0.2
+		MaxAbundance = 3
+		Variance = 0
+		MinAltitude = 2
+		MaxAltitude = 2
+		MinRange = 10
+		MaxRange = 10
 	}
 }

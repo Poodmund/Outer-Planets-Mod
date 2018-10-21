@@ -59,14 +59,357 @@ PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
 {
 	ResourceName = Hexagen
 	ResourceType = 0
-	PlanetName = 
+	PlanetName = Hale
+	
+	Distribution
+	{
+		PresenceChance = 50
+		MinAbundance = 0.1
+		MaxAbundance = 3
+		Variance = 50
+		Dispersal = 3
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Hexagen
+	ResourceType = 0
+	PlanetName = Ovok
+	
+	Distribution
+	{
+		PresenceChance = 50
+		MinAbundance = 0.1
+		MaxAbundance = 2
+		Variance = 50
+		Dispersal = 3
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Hexagen
+	ResourceType = 0
+	PlanetName = Slate
+	
+	Distribution
+	{
+		PresenceChance = 50
+		MinAbundance = 0.1
+		MaxAbundance = 3
+		Variance = 50
+		Dispersal = 3
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Hexagen
+	ResourceType = 0
+	PlanetName = Tekto
 	
 	Distribution
 	{
 		PresenceChance = 0
 		MinAbundance = 0
 		MaxAbundance = 0
-		Variance = 0
-		Dispersal = 0
+		Variance = 50
+		Dispersal = 3
 	}
 }
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Hexagen
+	ResourceType = 0
+	PlanetName = Polta
+	
+	Distribution
+	{
+		PresenceChance = 50
+		MinAbundance = 0.1
+		MaxAbundance = 2
+		Variance = 50
+		Dispersal = 3
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Hexagen
+	ResourceType = 0
+	PlanetName = Priax
+	
+	Distribution
+	{
+		PresenceChance = 50
+		MinAbundance = 0.1
+		MaxAbundance = 2
+		Variance = 50
+		Dispersal = 3
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Hexagen
+	ResourceType = 0
+	PlanetName = Wal
+	
+	Distribution
+	{
+		PresenceChance = 50
+		MinAbundance = 0.1
+		MaxAbundance = 2
+		Variance = 50
+		Dispersal = 3
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Hexagen
+	ResourceType = 0
+	PlanetName = Tal
+	
+	Distribution
+	{
+		PresenceChance = 50
+		MinAbundance = 0.1
+		MaxAbundance = 2
+		Variance = 50
+		Dispersal = 3
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Hexagen
+	ResourceType = 0
+	PlanetName = Thatmo
+	
+	Distribution
+	{
+		PresenceChance = 50
+		MinAbundance = 0.1
+		MaxAbundance = 4
+		Variance = 50
+		Dispersal = 3
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Hexagen
+	ResourceType = 0
+	PlanetName = Nissee
+	
+	Distribution
+	{
+		PresenceChance = 50
+		MinAbundance = 0.1
+		MaxAbundance = 3
+		Variance = 50
+		Dispersal = 3
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Hexagen
+	ResourceType = 0
+	PlanetName = Plock
+	
+	Distribution
+	{
+		PresenceChance = 50
+		MinAbundance = 0.1
+		MaxAbundance = 2
+		Variance = 50
+		Dispersal = 3
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Hexagen
+	ResourceType = 0
+	PlanetName = Karen
+	
+	Distribution
+	{
+		PresenceChance = 50
+		MinAbundance = 0.1
+		MaxAbundance = 2
+		Variance = 50
+		Dispersal = 3
+	}
+}
+
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Hexagen
+	ResourceType = 3
+	PlanetName = Sarnus
+	
+	Distribution
+	{
+		PresenceChance = 1000
+		MinAbundance = 5
+		MaxAbundance = 9
+		MinRange = 5
+		MaxRange = 5
+		Variance = 20
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Hexagen
+	ResourceType = 3
+	PlanetName = Hale
+	
+	Distribution
+	{
+		PresenceChance = 1000
+		MinAbundance = 0.1
+		MaxAbundance = 3
+		MinRange = 5
+		MaxRange = 5
+		Variance = 20
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Hexagen
+	ResourceType = 3
+	PlanetName = Ovok
+	
+	Distribution
+	{
+		PresenceChance = 1000
+		MinAbundance = 0.1
+		MaxAbundance = 2
+		MinRange = 5
+		MaxRange = 5
+		Variance = 20
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Hexagen
+	ResourceType = 3
+	PlanetName = Slate
+	
+	Distribution
+	{
+		PresenceChance = 1000
+		MinAbundance = 0.1
+		MaxAbundance = 2
+		MinRange = 5
+		MaxRange = 5
+		Variance = 20
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Hexagen
+	ResourceType = 3
+	PlanetName = Tekto
+	
+	Distribution
+	{
+		PresenceChance = 1000
+		MinAbundance = 0.1
+		MaxAbundance = 2
+		MinRange = 5
+		MaxRange = 5
+		Variance = 20
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Hexagen
+	ResourceType = 3
+	PlanetName = Urlum
+	
+	Distribution
+	{
+		PresenceChance = 1000
+		MinAbundance = 5
+		MaxAbundance = 6
+		MinRange = 5
+		MaxRange = 5
+		Variance = 20
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Hexagen
+	ResourceType = 3
+	PlanetName = Neidon
+	
+	Distribution
+	{
+		PresenceChance = 1000
+		MinAbundance = 6
+		MaxAbundance = 9
+		MinRange = 5
+		MaxRange = 5
+		Variance = 20
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Hexagen
+	ResourceType = 3
+	PlanetName = Thatmo
+	
+	Distribution
+	{
+		PresenceChance = 1000
+		MinAbundance = 0.1
+		MaxAbundance = 9
+		MinRange = 5
+		MaxRange = 5
+		Variance = 20
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Hexagen
+	ResourceType = 3
+	PlanetName = Nissee
+	
+	Distribution
+	{
+		PresenceChance = 1000
+		MinAbundance = 0.1
+		MaxAbundance = 4
+		MinRange = 5
+		MaxRange = 5
+		Variance = 20
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Hexagen
+	ResourceType = 3
+	PlanetName = Plock
+	
+	Distribution
+	{
+		PresenceChance = 1000
+		MinAbundance = 0.1
+		MaxAbundance = 2
+		MinRange = 5
+		MaxRange = 5
+		Variance = 20
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Hexagen
+	ResourceType = 3
+	PlanetName = Karen
+	
+	Distribution
+	{
+		PresenceChance = 1000
+		MinAbundance = 0.1
+		MaxAbundance = 2
+		MinRange = 5
+		MaxRange = 5
+		Variance = 20
+	}
+}
+

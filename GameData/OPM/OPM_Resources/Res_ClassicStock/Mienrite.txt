@@ -59,14 +59,179 @@ PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
 {
 	ResourceName = Minerite
 	ResourceType = 0
-	PlanetName = 
+	PlanetName = Hale
+	
+	Distribution
+	{
+		PresenceChance = 70
+		MinAbundance = 0.1
+		MaxAbundance = 9
+		Variance = 50
+		Dispersal = 20
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Minerite
+	ResourceType = 0
+	PlanetName = Ovok
+	
+	Distribution
+	{
+		PresenceChance = 70
+		MinAbundance = 0.1
+		MaxAbundance = 12
+		Variance = 50
+		Dispersal = 20
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Minerite
+	ResourceType = 0
+	PlanetName = Slate
+	
+	Distribution
+	{
+		PresenceChance = 70
+		MinAbundance = 0.1
+		MaxAbundance = 9
+		Variance = 50
+		Dispersal = 20
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Minerite
+	ResourceType = 0
+	PlanetName = Tekto
+	
+	Distribution
+	{
+		PresenceChance = 70
+		MinAbundance = 0.1
+		MaxAbundance = 9
+		Variance = 50
+		Dispersal = 20
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Minerite
+	ResourceType = 0
+	PlanetName = Polta
+	
+	Distribution
+	{
+		PresenceChance = 70
+		MinAbundance = 0.1
+		MaxAbundance = 4
+		Variance = 50
+		Dispersal = 20
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Minerite
+	ResourceType = 0
+	PlanetName = Priax
+	
+	Distribution
+	{
+		PresenceChance = 70
+		MinAbundance = 0.1
+		MaxAbundance = 11
+		Variance = 50
+		Dispersal = 20
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Minerite
+	ResourceType = 0
+	PlanetName = Wal
 	
 	Distribution
 	{
 		PresenceChance = 0
 		MinAbundance = 0
 		MaxAbundance = 0
-		Variance = 0
-		Dispersal = 0
+		Variance = 50
+		Dispersal = 20
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Minerite
+	ResourceType = 0
+	PlanetName = Tal
+	
+	Distribution
+	{
+		PresenceChance = 0
+		MinAbundance = 0
+		MaxAbundance = 0
+		Variance = 50
+		Dispersal = 20
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Minerite
+	ResourceType = 0
+	PlanetName = Thatmo
+	
+	Distribution
+	{
+		PresenceChance = 70
+		MinAbundance = 0.1
+		MaxAbundance = 5
+		Variance = 50
+		Dispersal = 20
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Minerite
+	ResourceType = 0
+	PlanetName = Nissee
+	
+	Distribution
+	{
+		PresenceChance = 70
+		MinAbundance = 0.1
+		MaxAbundance = 8
+		Variance = 50
+		Dispersal = 20
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Minerite
+	ResourceType = 0
+	PlanetName = Plock
+	
+	Distribution
+	{
+		PresenceChance = 70
+		MinAbundance = 0.1
+		MaxAbundance = 6
+		Variance = 50
+		Dispersal = 20
+	}
+}
+PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
+{
+	ResourceName = Minerite
+	ResourceType = 0
+	PlanetName = Karen
+	
+	Distribution
+	{
+		PresenceChance = 70
+		MinAbundance = 0.1
+		MaxAbundance = 6
+		Variance = 50
+		Dispersal = 20
 	}
 }

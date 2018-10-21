@@ -13,25 +13,6 @@ PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
 {
 	ResourceName = Atmosphere
 	ResourceType = 3
-	PlanetName = 
-		
-	Distribution
-	{
-		PresenceChance = 1000
-        MinAbundance = 10
-        MaxAbundance = 10
-        MinAltitude = 0.21
-        MaxAltitude = 0.21
-        MinRange = 0.2
-        MaxRange = 0.2
-        Variance = 0
-	}
-}
-
-PLANETARY_RESOURCE:NEEDS[WildBlueIndustries/ClassicStockResources]
-{
-	ResourceName = Atmosphere
-	ResourceType = 3
 	PlanetName = Sarnus
 		
 	Distribution
