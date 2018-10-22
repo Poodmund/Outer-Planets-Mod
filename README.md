@@ -49,8 +49,9 @@ The following KSP mods must be installed prior to using Outer Planets Mod (ensur
 
 v2.2.2
 
-* Removed Custom Asteroids integration in favor of using Kopernicus' Asteroids module.
 * Converted all biome maps to Palette 4bpp/8bpp .dds formats to improve loading time and OD functionality.
+* Removed Custom Asteroids integration in favor of using Kopernicus' Asteroids module.
+* Included configs for "Classic Stock" resource system if present.
 
 v2.2.1
 
