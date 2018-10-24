@@ -3,6 +3,7 @@
     "identifier": "OuterPlanetsMod",
     "$kref": "#/ckan/github/Galileo88/Outer-Planets-Mod",
     "$vref": "#/ckan/ksp-avc",
+	"x_netkan_epoch": "2",
     "name": "Outer Planets Mod",
     "abstract": "﻿ The Outer Planets Mod is a mod that ex﻿pands the out﻿er edges of t﻿he Kerbol system to create something akin to the real Solar System's﻿.",
     "author": [ "CaptRobau", "Galileo88", "Poodmund" ],
