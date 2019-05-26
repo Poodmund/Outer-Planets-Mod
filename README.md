@@ -1,6 +1,6 @@
-# Outer Planets Mod v2.2.2
+# Outer Planets Mod v2.2.3
 
-This version of Outer Planets Mod has been built to work for KSP version 1.3.1 - 1.5.*.
+This version of Outer Planets Mod has been built to work for KSP version 1.3.1 - 1.7.*.
 
 ### 1 - About
 
@@ -46,6 +46,12 @@ The following KSP mods must be installed prior to using Outer Planets Mod (ensur
 * Research Bodies
 
 ### 7 - Changelog
+
+v2.2.3
+
+* Fixed Eeloo's normal map texture
+* Corrected a localization string on one of Wal's biomes
+* Bumped version file to give compatibility with KSP 1.7.*
 
 v2.2.2
 
