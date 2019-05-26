@@ -1,7 +1,7 @@
 {
     "spec_version": "v1.4",
     "identifier": "OuterPlanetsMod",
-    "$kref": "#/ckan/github/Galileo88/Outer-Planets-Mod",
+    "$kref": "#/ckan/github/Poodmund/Outer-Planets-Mod",
     "$vref": "#/ckan/ksp-avc",
     "x_netkan_epoch": "2",
     "name": "Outer Planets Mod",
