@@ -1,0 +1,12 @@
+{
+    "NAME":"Community Terrain Texture Pack",
+    "URL":"https://raw.githubusercontent.com/Galileo88/Community-Terrain-Texture-Pack/master/GameData/CTTP/CommunityTerrainTexturePack.version",
+    "DOWNLOAD":"https://github.com/Galileo88/Community-Terrain-Texture-Pack/releases",
+    "CHANGE_LOG_URL":"https://raw.githubusercontent.com/Galileo88/Community-Terrain-Texture-Pack/master/ReadMe.md",
+    "VERSION":{
+        "MAJOR":1,
+        "MINOR":0,
+        "PATCH":4,
+        "BUILD":0
+    }
+}
