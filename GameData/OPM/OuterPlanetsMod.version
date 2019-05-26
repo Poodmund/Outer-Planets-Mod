@@ -1,8 +1,8 @@
 {
     "NAME":"OuterPlanetsMod",
-    "URL":"https://raw.githubusercontent.com/Galileo88/Outer-Planets-Mod/master/GameData/OPM/OuterPlanetsMod.version",
-    "DOWNLOAD":"https://github.com/Galileo88/Outer-Planets-Mod/releases",
-    "CHANGE_LOG_URL":"https://raw.githubusercontent.com/Galileo88/Outer-Planets-Mod/master/README.md",
+    "URL":"https://raw.githubusercontent.com/Poodmund/Outer-Planets-Mod/master/GameData/OPM/OuterPlanetsMod.version",
+    "DOWNLOAD":"https://github.com/Poodmund/Outer-Planets-Mod/releases",
+    "CHANGE_LOG_URL":"https://raw.githubusercontent.com/Poodmund/Outer-Planets-Mod/master/README.md",
     "VERSION":{
         "MAJOR":2,
         "MINOR":2,
