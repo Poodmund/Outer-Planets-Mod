@@ -41,6 +41,7 @@ The following KSP mods must be installed prior to using Outer Planets Mod (ensur
 ### 6 - Supported Mods
 
 * Custom Barn Kit - https://forum.kerbalspaceprogram.com/index.php?/topic/109027-1
+* Community Resource Pack
 * Distant Object Enhancement
 * PlanetShine
 * Research Bodies
