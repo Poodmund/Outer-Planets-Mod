@@ -1,24 +1,26 @@
-# Outer Planets Mod v2.2.4
+# Outer Planets Mod Changelog
+
+### Outer Planets Mod v2.2.4
 
 - Improved asteroids config to allow them to spawn before a vessel has visited said body and also tweaked the spawn settings to allow for more intelligent asteroid orbits.
 
-# Outer Planets Mod v2.2.3
+### Outer Planets Mod v2.2.3
 
 - Fixed Eeloo's normal map texture
 - Corrected a localization string on one of Wal's biomes
 - Bumped version file to give compatibility with KSP 1.7.*
 
-# Outer Planets Mod v2.2.2
+### Outer Planets Mod v2.2.2
 
 - Converted all biome maps to Palette 4bpp/8bpp .dds formats to improve loading time and OD functionality.
 - Removed Custom Asteroids integration in favor of using Kopernicus' Asteroids module.
 - Included configs for "Classic Stock" resource system if present.
 
-# Outer Planets Mod v2.2.1
+### Outer Planets Mod v2.2.1
 
 - Fixed errors in Slate and Wal's normal map paths causing them not to use OnDemand loading effectively.
 
-# Outer Planets Mod v2.2.0
+### Outer Planets Mod v2.2.0
 
 - Incorporated all changes from OPM_Galileo branch.
 - Upscaled and redefined all biome maps to 4096x2048px.
@@ -30,13 +32,13 @@
 - Removed antenna and DSN multiplier patches and introduced a Level 4 Tracking Station upgrade to give the extended range required for communications.
 - Removed Stock Science Multipliers patch and redid Science Values for all OPM bodies to fall in line with stock body value consistency. Users can now adjust the Science Multiplier in their Difficulty Settings to suit their preference.
 
-# OPM_Galileo v1.2.6
+### OPM_Galileo v1.2.6
 
 - Update for 1.4.X
 - Corrected localization sytax
 - Fixed Biomes for Polta and Wal
 
-# OPM_Galileo v1.2.5
+### OPM_Galileo v1.2.5
 
 - Added Kopernicus asteroids
 - Resources for Far Future Technologies
@@ -49,34 +51,34 @@
 - Rearranged and converted textures for better use of LoadOnDemand
 - Removed a file that was breaking OPM's FinalFrontier support
 
-# OPM_Galileo v1.2.4
+### OPM_Galileo v1.2.4
 
 - Fixes missing Eeloo when installed with GPP
 - Fixes ResearchBodies in-game text
 
-# OPM_Galileo v1.2.3
+### OPM_Galileo v1.2.3
 
 - Update version file for 1.3.1
 
-# OPM_Galileo v1.2.2
+### OPM_Galileo v1.2.2
 
 - Moved CTTP outside of OPM folder to facilitate better compatibility in the future.
 - Amended Tekto Colour Map to include Ocean Mask on the Alpha channel. (Thanks @Poodmund )
 
-# OPM_Galileo v1.2.1
+### OPM_Galileo v1.2.1
 
 - Fixed Neidon and Nissee descriptions
 - Fixed smart quote symbols in science defs and descriptions
 - Changes to resource cfgs. KerbNet now works fine.
 
-# OPM_Galileo v1.2.0
+### OPM_Galileo v1.2.0
 
 - Completed necessary localization: ResearchBodies is now supported, Kopernicus Biome displayName enabled
 - Karbonite resource configs have been updated
 - KerbNet is not functioning correctly. I beleive this to be a Kopernicus issue
 - Restructured texture paths. Should speed up loading time by a few seconds
 
-# OPM_Galileo v1.1.0
+### OPM_Galileo v1.1.0
 
 - Updated for 1.3
 - Completed necessary localization: Covers displayName, Descriptions and ScienceDefs, Does NOT cover ResearchBodies (maybe in the future)
@@ -84,11 +86,11 @@
 - Enabled Kopernicus' ring shader ^ hey whatta ya know?
 - Added support for KopernicusExpansions footprints on all rocky bodies
 
-# OPM_Galileo v1.0.0
+### OPM_Galileo v1.0.0
 
 - This just moves the textures out of the PluginData folders, letting Mac and Linux users use DDS textures
 
-# Outer Planets Mod v2.1.0
+### Outer Planets Mod v2.1.0
 
 - Redid normals for all bodies expect Ovok
 - Fixed ASL pressure readouts in the body overview in map mode
@@ -103,7 +105,7 @@
 - Added biomes and science blurbs to Plock, Karen, Sarnus, Neidon and Urlum
 - Gave the biome maps more pleasant color palettes
 
-# Outer Planets Mod v2.0.0
+### Outer Planets Mod v2.0.0
 
 Gameplay:
 
@@ -163,12 +165,12 @@ Miscellaneous:
 - Updated the AVC version file
 - Removed the Kopernicus license, since it is no longer bundled with the mod
 
-# Outer Planets Mod v1.9.5.1
+### Outer Planets Mod v1.9.5.1
 
 - Fixed an issue with the game loading the wrong normals for the OPM gas giants
 - Updated the AVC version file
 
-# Outer Planets Mod v1.9.5
+### Outer Planets Mod v1.9.5
 
 - Removed Module Manager from download (please use the MM version included with Kopernicus)
 - Added FlyingAltitudeThresholdvalues to Thatmo's Science Values
@@ -187,7 +189,7 @@ Miscellaneous:
 - Sarnus, Urlum and Neidon now use the same cloudy normal map that Jool uses
 - Updated the AVC version file
 
-# Outer Planets Mod v1.9.2
+### Outer Planets Mod v1.9.2
 
 - Added procedural asteroid moons to Jool, Sarnus, Urlum, Neidon and Plock through the CustomAsteroids mod
 - Updated PlockKaren.cfg to latest version of the SigmaBinary template
@@ -199,11 +201,11 @@ Miscellaneous:
 - Updated Module Manager to version 2.6.17
 - Updated the AVC version file
 
-# Outer Planets Mod v1.9.1
+### Outer Planets Mod v1.9.1
 
 - Re-added the FlightGlobalIndex variables to the various bodies to maintain save game compatibility and prevent save game breaking from occurring in the future
 
-# Outer Planets Mod v1.9.0
+### Outer Planets Mod v1.9.0
 
 - Redid Plock, changing it from a Vall look-a-like into a unique body
 - Added a moon to Plock called Karen
@@ -215,7 +217,7 @@ Miscellaneous:
 - Updated ModuleManager to version 2.6.13
 - Updated AVC version file
 
-# Outer Planets Mod v1.8.1
+### Outer Planets Mod v1.8.1
 
 - Add biomes to Thatmo and Nissee
 - Added science blurbs for Thatmo and Nissee
@@ -228,7 +230,7 @@ Miscellaneous:
 - Fixed a spelling error in the description for Nissee
 - Updated ModuleManager to version 2.6.8
 
-# Outer Planets Mod v1.8.0
+### Outer Planets Mod v1.8.0
 
 - Added two moons to Neidon: Thatmo and Nissee
 - Added support for Kopernicus Expansion's procedural gas giants feature, adding it to the OPM giants and Jool
@@ -238,7 +240,7 @@ Miscellaneous:
 - Converted the ring textures to PNG format for Kopernicus Expansion compatibility
 - Updated ModuleManager to 2.6.7
 
-# Outer Planets Mod v1.7.2
+### Outer Planets Mod v1.7.2
 
 - Added custom water textures to Tekto as well as other ocean tweaks
 - Removed the double color textures (color/map), because they were no longer needed by Kopernicus
@@ -252,7 +254,7 @@ Miscellaneous:
 - Moved the version file from the GameData to the OPM folder
 - Reduced the spikiness of Ovok
 
-# Outer Planets Mod v1.7.1
+### Outer Planets Mod v1.7.1
 
 - Made Ovok egg-shaped again
 - Added biomes and science descriptions to Tal
@@ -263,7 +265,7 @@ Miscellaneous:
 - Updated the Module Manager plugin to version 2.6.6
 - Updated the Module Manager license included
 
-# Outer Planets Mod v1.7.0
+### Outer Planets Mod v1.7.0
 
 - Moved the Texture Replacer cfg to the OPM folder and removed the TextureReplacer folder
 - Updated the Karbonite configs, courtesy of Olympic1
@@ -281,7 +283,7 @@ Miscellaneous:
 - Adjusted the SOIs of Ovok and Hale to make scanning and orbiting less problematic
 - Removed the Kopernicus folder, the mod can now be downloaded separately, making combining OPM with other planet packs easier
 
-# Outer Planets Mod v1.7.0 Beta 2
+### Outer Planets Mod v1.7.0 Beta 2
 
 - Added about a dozen extra science descriptions to Urlum's moons
 - Fixed a description that was about Priax, but was listed for Wal
@@ -299,7 +301,7 @@ Miscellaneous:
 - Tweaked the atmospheres in OPM to make them work better and to make them more unique from one another
 - Temporarily made Dres the template for Wal instead of Moho, to prevent the black body bug
 
-# Outer Planets Mod v1.7.0 Beta 1
+### Outer Planets Mod v1.7.0 Beta 1
 
 - Added a moon around Wall called Tal
 - Added biomes to Urlum's moons
@@ -323,7 +325,7 @@ Miscellaneous:
 - Integrated OPM with the new stock resource system
 - Renamed the RegolithConfigs folder to KarboniteConfigs, to reflect Karbonite mod dropping Regolith for the stock resource system
 
-# Outer Planets Mod v1.6.5
+### Outer Planets Mod v1.6.5
 
 - Added a ScaledSpace .bin for Plock
 - Removed tidal locking from Plock
@@ -338,7 +340,7 @@ Miscellaneous:
 - Updated ModuleManager to version 2.5.13
 - Updated KopernicusTech to version 0.13
 
-# Outer Planets Mod v1.6.0
+### Outer Planets Mod v1.6.0
 
 - Added three new moons to Urlum: Polta, Priax and Wal
 - Added licenses to the download as per the rules
@@ -346,11 +348,11 @@ Miscellaneous:
 - Resized Slate's color map to reduce memory use at a negligible loss in in-game quality
 - Tweaked Tekto's atmosphereAmbient in the PlanetShine config to make it as much as other atmospheric bodies
 
-# Outer Planets Mod v1.5.5.1
+### Outer Planets Mod v1.5.5.1
 
 - TextureReplacer incompatibility fixed
 
-# Outer Planets Mod v1.5.5
+### Outer Planets Mod v1.5.5
 
 - Updated the plugins to KopernicusTech 0.121
 - Updated ModuleManager to 2.5.10
@@ -377,14 +379,14 @@ Miscellaneous:
 - Moved the atmosphere handling for the gas giants from Kopernicus to Kittopia
 - Tweaked the atmospheric colors of the gas giants to make them look better
 
-# Outer Planets Mod v1.5.2
+### Outer Planets Mod v1.5.2
 
 - Included the correct DLL for Kopernicus 0.4, so that the biome bug is now actually fixed
 - Added a missing cloud layer in the AVP config for Sarnus
 - Added biome-specific resources for Sarnus' moons to the Regolith config
 - Added resources on Tekto to the Regolith config
 
-# Outer Planets Mod v1.5.1
+### Outer Planets Mod v1.5.1
 
 - Removed unused Tekto ocean textures
 - Mirrored the textures for Hale, Slate and Ovok vertically so they look like they did in 1.4
@@ -393,7 +395,7 @@ Miscellaneous:
 - Removed the ScaledSpace folder in KittopiaSpace as Kopernicus can now handle that
 - Set ModScaledAtmoShader to false for Sarnus, Urlum and Tekto so that atmospheric gradient once again displays correctly
 
-# Outer Planets Mod v1.5.0
+### Outer Planets Mod v1.5.0
 
 - Added a new moon to Sarnus called Tekto
 - Updated ModuleManager to version 2.5.9
@@ -411,7 +413,7 @@ Miscellaneous:
 - Added a config for AntennaRange and RemoteTech that extends the range of the longest-range dishes to compensate for the expanded Kerbol system
 - Added Astronomer's Visual Pack-compatible cloud configs for the planets and moons with atmospheres
 
-# Outer Planets Mod v1.4.0
+### Outer Planets Mod v1.4.0
 
 - Upgraded KittopiaTech to version 0.192
 - Added biomes for Hale, Ovok and Slate
@@ -422,7 +424,7 @@ Miscellaneous:
 - Made Slate's terrain smoother in places
 - Changed the default textures from 4K/8K to 2K/4K. Low and high res packs can be downloaded separately
 
-# Outer Planets Modv 1.3.0
+### Outer Planets Modv 1.3.0
 
 - Updated KittopiaTech to version 0.19
 - Moved Eeloo to an orbit around Sarnus
@@ -439,11 +441,11 @@ Miscellaneous:
 - Updated ModuleManager to version 2.5.8
 - Moved the PlanetShine config into the base one, to get it to work correctly
 
-# Outer Planets Mod 1.2.1
+### Outer Planets Mod 1.2.1
 
 - Reduced Urlum's shepherd moon spawn rate from its extremely high value (which I used for testing) to its intended value
 
-# Outer Planets Mod v1.2.0
+### Outer Planets Mod v1.2.0
 
 - Added a few science blurbs for the new planets, but only orbital experiments for now
 - Gave custom science multipliers to each of the new planets and upped Eeloo's to reflect its more distant orbit
@@ -454,11 +456,11 @@ Miscellaneous:
 - Changed the atmospheric heights of the new planets
 - Changed the description of Neidon
 
-# Outer Planets Mod v1.1.1
+### Outer Planets Mod v1.1.1
 
 - Updated PFUtilityAddon.dll (courtesy of Thesonicgalaxy) and capitalized the first letter of the ring textures' filenames to ensure rings show properly on Linux
 
-# Outer Planets Mod v1.1.0
+### Outer Planets Mod v1.1.0
 
 - Added support for CustomAsteroids: this will allow procedural asteroids to spawn around Jool, Sarnus, Urlum and Neidon and represent their very small moonlets
 - Added planetary rings to Sarnus and Urlum
@@ -467,6 +469,6 @@ Miscellaneous:
 - Updated ModuleManager to version 2.5.6
 - Removed Sarnus_rim.png, an unused texture
  
-# Outer Planets Mod v1.0.0
+### Outer Planets Mod v1.0.0
 
 - Initial release
