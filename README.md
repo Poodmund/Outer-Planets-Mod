@@ -1,4 +1,4 @@
-# Outer Planets Mod v2.2.3
+# Outer Planets Mod v2.2.4
 
 This version of Outer Planets Mod has been built to work for KSP version 1.3.1 - 1.7.*.
 
@@ -46,6 +46,10 @@ The following KSP mods must be installed prior to using Outer Planets Mod (ensur
 * Research Bodies
 
 ### 7 - Changelog
+
+v2.2.4
+
+* Improved asteroids config to allow them to spawn before a vessel has visited said body and also tweaked the spawn settings to allow for more intelligent asteroid orbits.
 
 v2.2.3
 
