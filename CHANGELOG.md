@@ -424,7 +424,7 @@ Miscellaneous:
 - Made Slate's terrain smoother in places
 - Changed the default textures from 4K/8K to 2K/4K. Low and high res packs can be downloaded separately
 
-### Outer Planets Modv 1.3.0
+### Outer Planets Mod v1.3.0
 
 - Updated KittopiaTech to version 0.19
 - Moved Eeloo to an orbit around Sarnus
@@ -441,7 +441,7 @@ Miscellaneous:
 - Updated ModuleManager to version 2.5.8
 - Moved the PlanetShine config into the base one, to get it to work correctly
 
-### Outer Planets Mod 1.2.1
+### Outer Planets Mod v1.2.1
 
 - Reduced Urlum's shepherd moon spawn rate from its extremely high value (which I used for testing) to its intended value
 
