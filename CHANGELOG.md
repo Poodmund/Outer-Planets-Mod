@@ -1,5 +1,10 @@
 # Outer Planets Mod Changelog
 
+### Outer Planets Mod v2.2.5
+
+* Moved texture loading over to new Kopernicus OnDemand module.
+* Gave Tal it's specularity back.
+
 ### Outer Planets Mod v2.2.4
 
 - Improved asteroids config to allow them to spawn before a vessel has visited said body and also tweaked the spawn settings to allow for more intelligent asteroid orbits.
