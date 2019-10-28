@@ -16,7 +16,7 @@
             "find": "OPM",
             "install_to": "GameData",
             "comment": "This is the main install for OPM"
-        },
+        }
     ],
     "depends": [
         {
@@ -37,7 +37,7 @@
     "recommends": [
         {
             "name": "CustomBarnKit"
-        },
+        }
     ],
     "suggests": [
         {
@@ -57,9 +57,9 @@
         },
 		{
             "name": "ResearchBodies"
-        },
+        }
     ],
-	"tags": [
+    "tags": [
 		"planet-pack"
-    ],
+    ]
 }
