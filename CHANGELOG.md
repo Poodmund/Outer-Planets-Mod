@@ -1,9 +1,14 @@
 # Outer Planets Mod Changelog
 
+### Outer Planets Mod v2.2.6
+
+- Bumped version file to give compatibility with KSP 1.8.*
+- Deprecated support for following mods: Antenna Range & ClassicStockResources
+
 ### Outer Planets Mod v2.2.5
 
-* Moved texture loading over to new Kopernicus OnDemand module.
-* Gave Tal it's specularity back.
+- Moved texture loading over to new Kopernicus OnDemand module.
+- Gave Tal it's specularity back.
 
 ### Outer Planets Mod v2.2.4
 
