@@ -1,4 +1,4 @@
-# Outer Planets Mod v2.2.5
+# Outer Planets Mod v2.2.6
 
 This version of Outer Planets Mod has been built to work for KSP version 1.3.1 - 1.8.*.
 
