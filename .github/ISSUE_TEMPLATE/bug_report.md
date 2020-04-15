@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+A clear and concise description of what the bug is. Make sure you read the current ['Project'](https://github.com/Poodmund/Outer-Planets-Mod/projects) items and ['Issues'](https://github.com/Poodmund/Outer-Planets-Mod/issues) already submitted first to ensure you aren't posting a duplicate issue!
 
 **To Reproduce**
 Steps to reproduce the behavior:
