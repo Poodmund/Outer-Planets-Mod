@@ -1,6 +1,6 @@
-# Outer Planets Mod v2.2.6
+# Outer Planets Mod v2.2.7
 
-This version of Outer Planets Mod has been built to work for KSP version 1.3.1 - 1.8.*.
+This version of Outer Planets Mod has been built to work for KSP version 1.3.1 - 1.9.*.
 
 ### 1 - About
 
@@ -48,10 +48,10 @@ The following KSP mods must be installed prior to using Outer Planets Mod (ensur
 
 ### 7 - Changelog
 
-v2.2.6
+v2.2.7
 
-* Bumped version file to give compatibility with KSP 1.8.*
-* Deprecated support for following mods: Antenna Range & ClassicStockResources
+* Bumped version file to give compatibility with KSP 1.9.*
+* Updated KSPedia to work on KSP 1.8.*+
 
 Previous changelogs can be found on the GitHub repository or the original forum thread: https://forum.kerbalspaceprogram.com/index.php?/topic/93999-1
 

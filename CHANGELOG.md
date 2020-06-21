@@ -1,5 +1,10 @@
 # Outer Planets Mod Changelog
 
+### Outer Planets Mod v2.2.7
+
+- Bumped version file to give compatibility with KSP 1.9.*
+- Updated KSPedia to work on KSP 1.8.*+
+
 ### Outer Planets Mod v2.2.6
 
 - Bumped version file to give compatibility with KSP 1.8.*
