@@ -1,5 +1,12 @@
 # Outer Planets Mod Changelog
 
+### Outer Planets Mod v2.2.8
+
+- Updated ground scatter notation to align with Kopernicus directly and enable scatter collision mesh interactions.
+- Resolved unnecessary double spaces in localization strings and replaced tab indentation with spaces in localization file.
+- Explicitly state PQS materialType for bodies with PQS meshes.
+- Remove bad characters from Localization strings.
+
 ### Outer Planets Mod v2.2.7
 
 - Bumped version file to give compatibility with KSP 1.9.*
