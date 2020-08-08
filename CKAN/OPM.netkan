@@ -43,20 +43,20 @@
         {
             "name": "BetterTimeWarpCont"
         },
-		{
+        {
             "name": "CommunityResourcePack"
         },
-		{
+        {
             "name": "DistantObject"
         },
-		{
+        {
             "name": "FinalFrontier"
         },
-		{
+        {
             "name": "PlanetShine"
-        },
+        }
     ],
     "tags": [
-		"planet-pack"
+        "planet-pack"
     ]
 }
