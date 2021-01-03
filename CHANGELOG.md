@@ -1,5 +1,10 @@
 # Outer Planets Mod Changelog
 
+### Outer Planets Mod v2.2.9
+
+- Fixed contracts from spawning requiring players to drill Ore from gas giants.
+- Increased Neidon and Plock's (plus moons) Science Recovery Values slightly to increase their contract duration times. Hopefully this increase in potential science gain around Neidon and Plock will not unbalance the tech tree progression rate.
+
 ### Outer Planets Mod v2.2.8
 
 - Updated ground scatter notation to align with Kopernicus directly and enable scatter collision mesh interactions.

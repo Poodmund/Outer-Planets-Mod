@@ -1,6 +1,6 @@
-# Outer Planets Mod v2.2.8
+# Outer Planets Mod v2.2.9
 
-This version of Outer Planets Mod has been built to work for KSP version 1.3.1 - 1.9.*.
+This version of Outer Planets Mod has been built to work for KSP version 1.3.1 - 1.11.*.
 
 ### 1 - About
 
@@ -48,12 +48,10 @@ The following KSP mods must be installed prior to using Outer Planets Mod (ensur
 
 ### 7 - Changelog
 
-v2.2.8
+v2.2.9
 
-* Updated ground scatter notation to align with Kopernicus directly and enable scatter collision mesh interactions.
-* Resolved unnecessary double spaces in localization strings and replaced tab indentation with spaces in localization file.
-* Explicitly state PQS materialType for bodies with PQS meshes.
-* Remove bad characters from Localization strings.
+* Fixed contracts from spawning requiring players to drill Ore from gas giants.
+* Increased Neidon and Plock's (plus moons) Science Recovery Values slightly to increase their contract duration times. Hopefully this increase in potential science gain around Neidon and Plock will not unbalance the tech tree progression rate.
 
 Previous changelogs can be found on the GitHub repository or the original forum thread: https://forum.kerbalspaceprogram.com/index.php?/topic/93999-1
 
