@@ -2,6 +2,7 @@
 
 ### Outer Planets Mod v2.2.9
 
+- Added LiquidFuel as a mineable resource in Tekto's oceans.
 - Fixed contracts from spawning requiring players to drill Ore from gas giants.
 - Increased Neidon and Plock's (plus moons) Science Recovery Values slightly to increase their contract duration times. Hopefully this increase in potential science gain around Neidon and Plock will not unbalance the tech tree progression rate.
 

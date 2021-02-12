@@ -34,7 +34,7 @@ Extract the GameData folder found in the downloadable .zip directly into your Ke
 
 The following KSP mods must be installed prior to using Outer Planets Mod (ensure you install the correct version of the dependencies for your version of KSP):
 
-* Kopernicus - https://github.com/Kopernicus/Kopernicus/releases or Kopernicus Continued - https://github.com/prestja/kopernicus/releases (depending on KSP game version)
+* Kopernicus - https://github.com/Kopernicus/Kopernicus/releases (depending on KSP game version)
 * Module Manager - https://forum.kerbalspaceprogram.com/index.php?/topic/50533-1
 * Community Terrain Texture Pack - bundled within OPM
 
@@ -50,6 +50,7 @@ The following KSP mods must be installed prior to using Outer Planets Mod (ensur
 
 v2.2.9
 
+* Added LiquidFuel as a mineable resource in Tekto's oceans.
 * Fixed contracts from spawning requiring players to drill Ore from gas giants.
 * Increased Neidon and Plock's (plus moons) Science Recovery Values slightly to increase their contract duration times. Hopefully this increase in potential science gain around Neidon and Plock will not unbalance the tech tree progression rate.
 
