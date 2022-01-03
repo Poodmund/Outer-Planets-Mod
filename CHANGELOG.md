@@ -1,5 +1,11 @@
 # Outer Planets Mod Changelog
 
+### Outer Planets Mod v2.2.10
+
+- Bumped versioning to support up to KSP v1.12.99
+- Added Russian localization thanks to Grimmas
+- Added preliminary support for Space Dust mod
+
 ### Outer Planets Mod v2.2.9
 
 - Added LiquidFuel as a mineable resource in Tekto's oceans.

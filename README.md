@@ -1,6 +1,6 @@
-# Outer Planets Mod v2.2.9
+# Outer Planets Mod v2.2.10
 
-This version of Outer Planets Mod has been built to work for KSP version 1.3.1 - 1.11.*.
+This version of Outer Planets Mod has been built to work for KSP version 1.3.1 - 1.12.*.
 
 ### 1 - About
 
@@ -48,11 +48,11 @@ The following KSP mods must be installed prior to using Outer Planets Mod (ensur
 
 ### 7 - Changelog
 
-v2.2.9
+v2.2.10
 
-* Added LiquidFuel as a mineable resource in Tekto's oceans.
-* Fixed contracts from spawning requiring players to drill Ore from gas giants.
-* Increased Neidon and Plock's (plus moons) Science Recovery Values slightly to increase their contract duration times. Hopefully this increase in potential science gain around Neidon and Plock will not unbalance the tech tree progression rate.
+* Bumped versioning to support up to KSP v1.12.99
+* Added Russian localization thanks to Grimmas
+* Added preliminary support for Space Dust mod
 
 Previous changelogs can be found on the GitHub repository or the original forum thread: https://forum.kerbalspaceprogram.com/index.php?/topic/93999-1
 
