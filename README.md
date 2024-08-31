@@ -1,4 +1,4 @@
-# Outer Planets Mod v2.2.10
+# Outer Planets Mod v2.2.11
 
 This version of Outer Planets Mod has been built to work for KSP version 1.3.1 - 1.12.*.
 
@@ -48,11 +48,9 @@ The following KSP mods must be installed prior to using Outer Planets Mod (ensur
 
 ### 7 - Changelog
 
-v2.2.10
+v2.2.11
 
-* Bumped versioning to support up to KSP v1.12.99
-* Added Russian localization thanks to Grimmas
-* Added preliminary support for Space Dust mod
+* Fixed vertical orientation of Nissee colour and biome maps.
 
 Previous changelogs can be found on the GitHub repository or the original forum thread: https://forum.kerbalspaceprogram.com/index.php?/topic/93999-1
 

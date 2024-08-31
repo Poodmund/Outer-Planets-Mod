@@ -1,5 +1,9 @@
 # Outer Planets Mod Changelog
 
+### Outer Planets Mod v2.2.11
+
+- Fixed vertical orientation of Nissee colour and biome maps.
+
 ### Outer Planets Mod v2.2.10
 
 - Bumped versioning to support up to KSP v1.12.99
