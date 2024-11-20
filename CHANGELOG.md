@@ -1,5 +1,9 @@
 # Outer Planets Mod Changelog
 
+### Outer Planets Mod v2.2.12
+
+- Fixed Research Bodies celestial body values for easy, normal, medium and hard settings, to align with core Research Bodies design strategy.
+
 ### Outer Planets Mod v2.2.11
 
 - Fixed vertical orientation of Nissee colour and biome maps.
